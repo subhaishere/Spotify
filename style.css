@@ -157,6 +157,12 @@
     border-radius: 15px;
     font-size: 20px;
 }
+
+.profile:hover,
+.profile:active {
+    background-color: #999; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
 .H-cards{
     display: flex;
     justify-content: start;
